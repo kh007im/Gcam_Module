@@ -1,7 +1,7 @@
-id=template
-name=Template Module
-version=v1
-versionCode=1
-author=topjohnwu
-description=A short description
+id=MK.MiA1
+name=Enable Camera API2
+version=v.1
+versionCode=01
+author=khojim
+description=Simple module for Xiaomi MiA1
 minMagisk=1500
