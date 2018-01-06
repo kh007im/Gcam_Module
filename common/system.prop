@@ -5,11 +5,11 @@
 # CHANGE
 
 # Codec Assistant
-mm.enable.qcom_parser=3183219
+# mm.enable.qcom_parser=3183219
 
 # Multi Users
-fw.max_users=30
-fw.show_multiuserui=1
+#fw.max_users=30
+#fw.show_multiuserui=1
 
 # NEW
 
